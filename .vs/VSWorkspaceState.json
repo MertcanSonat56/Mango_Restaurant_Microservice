@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mango.Services.ProductAPI\\DbContexts",
+    "\\Mango.Services.ProductAPI\\Models",
+    "\\Mango.Services.ProductAPI\\Models\\Dto",
+    "\\Mango.Services.ProductAPI\\Repository"
+  ],
+  "PreviewInSolutionExplorer": false
+}
